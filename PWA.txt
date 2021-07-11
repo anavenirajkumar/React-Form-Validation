@@ -1,0 +1,9 @@
+npm install workbox-core workbox-expiration workbox-precaching workbox-routing workbox-strategies
+
+Files : serviceWorker , service-worker, manifest.json, index.js
+
+1) npm install serve -g  (Global install System)
+
+2) npm run build
+
+3) serve -s build (look install option)
